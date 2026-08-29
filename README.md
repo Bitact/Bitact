@@ -1,9 +1,5 @@
 # Hi there, I'm Romulus72
 
-<p align="left">
-  <img src="https://komarev.com" alt="Romulus72" />
-</p>
-
 ### About Me
 I am a software engineer focused on building high-performance systems and backend applications. I specialize in compiled languages and structured application development.
 
@@ -14,18 +10,13 @@ I am a software engineer focused on building high-performance systems and backen
 
 ### Languages
 
-![C](https://shields.io)
-![C++](https://shields.io)
-![Go](https://shields.io)
-![Java](https://shields.io)
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/1f7fd970-6813-4a95-a094-468bd800bc3a" />
 
 ---
 
 ### IDEs & Tools
 
-![VS Code](https://shields.io)
-![Visual Studio 2026](https://shields.io)
-![Git](https://shields.io)
+<img width="1080" height="1080" alt="image" src="https://github.com/user-attachments/assets/d36aa37c-9ecb-4ac0-807c-65a43ce3df23" />
 
 ---
 
