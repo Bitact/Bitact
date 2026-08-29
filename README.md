@@ -10,10 +10,10 @@ I am a software engineer focused on building high-performance systems and backen
 
 ### Languages
 
-<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/1f7fd970-6813-4a95-a094-468bd800bc3a" />
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/1f7fd970-6813-4a95-a094-468bd800bc3a" />
 
 ---
 
 ### IDEs & Tools
 
-<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/d36aa37c-9ecb-4ac0-807c-65a43ce3df23" />
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/d36aa37c-9ecb-4ac0-807c-65a43ce3df23" />
