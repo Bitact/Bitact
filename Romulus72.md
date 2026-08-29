@@ -1,4 +1,4 @@
-# Hi there, I'm [Romulus72]
+# Hi there, I'm Romulus72
 
 <p align="left">
   <img src="https://komarev.com" alt="Romulus72" />
