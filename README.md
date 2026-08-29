@@ -18,4 +18,4 @@ I am a software engineer focused on building high-performance systems and backen
 
 ### IDEs & Tools
 
-<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/d36aa37c-9ecb-4ac0-807c-65a43ce3df23" />
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/d36aa37c-9ecb-4ac0-807c-65a43ce3df23" /> <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/38b234c0-1204-4684-b7b8-1b4285516a93" />
