@@ -10,19 +10,10 @@ I am a software engineer focused on building high-performance systems and backen
 
 ### Languages
 
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/1f7fd970-6813-4a95-a094-468bd800bc3a" />
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/1f7fd970-6813-4a95-a094-468bd800bc3a" />
 
 ---
 
 ### IDEs & Tools
 
-<img width="1080" height="1080" alt="image" src="https://github.com/user-attachments/assets/d36aa37c-9ecb-4ac0-807c-65a43ce3df23" />
-
----
-
-### GitHub Stats
-
-<p align="left">
-  <img src="https://vercel.app" alt="GitHub Stats" height="150" />
-  <img src="https://vercel.app" alt="Top Langs" height="150" />
-</p>
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/d36aa37c-9ecb-4ac0-807c-65a43ce3df23" />
